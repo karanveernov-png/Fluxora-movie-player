@@ -1,0 +1,21 @@
+# Env
+.env
+backend/.env
+
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Aura temp media
+/tmp/aura_player/
+/tmp/aura_cache/
